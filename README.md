@@ -4,13 +4,13 @@ Aquí podrás encontrar algunos de los proyectos en los que he trabajado. Si est
 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/cristiancampero">
+  <a href="https://www.linkedin.com/in/cristiancampero" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-grey?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=6a0bbd">
   </a>
-  <a href="https://twitter.com/_ccampero">
+  <a href="https://twitter.com/_ccampero" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-grey?style=for-the-badge&logo=twitter&logoColor=white&labelColor=6a0bbd">
   </a>
-  <a href="https://www.instagram.com/_cristiancampero">
+  <a href="https://www.instagram.com/_cristiancampero" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-grey?style=for-the-badge&logo=instagram&logoColor=white&labelColor=6a0bbd">
   </a> 
 </p>
@@ -37,7 +37,7 @@ Aquí podrás encontrar algunos de los proyectos en los que he trabajado. Si est
 También puedes ver mis trabajos de visualización de datos en mi perfil de Tableau Public.
 
 <p align="center">
-  <a href="https://public.tableau.com/app/profile/cristiancampero">
+  <a href="https://public.tableau.com/app/profile/cristiancampero" target="_blank">
     <img src="https://img.shields.io/badge/Tableau-grey?style=for-the-badge&logo=Tableau&logoColor=white&labelColor=6a0bbd">
   </a>
 </p>
