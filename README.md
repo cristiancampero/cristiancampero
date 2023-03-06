@@ -34,7 +34,7 @@ Aquí podrás encontrar algunos de los proyectos en los que he trabajado. Si est
 
 ---
 ### 📊  Visualizaciones
-También puedes ver mis trabajos de visualización de datos en mi perfil de Tableau Public.
+También puedes ver mis trabajos de visualización de datos en mi perfil de [Tableau Public](https://public.tableau.com/app/profile/cristiancampero).
 
 <p align="center">
   <a href="https://public.tableau.com/app/profile/cristiancampero" target="_blank">
