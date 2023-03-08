@@ -2,15 +2,19 @@
 
 Aquí podrás encontrar algunos de los proyectos en los que he trabajado. Si estás interesado en conocer más detalles o en contactarme, puedes encontrarme aquí. 👇
 
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/cristiancampero" target="_blank">
+  <a href="https://cristiancampero.github.io">
+    <img src="https://img.shields.io/badge/Portfolio_website-6a0bbd?style=for-the-badge&logoColor=white">
+  </a>
+</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/cristiancampero">
     <img src="https://img.shields.io/badge/LinkedIn-grey?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=6a0bbd">
   </a>
-  <a href="https://twitter.com/_ccampero" target="_blank">
+  <a href="https://twitter.com/_ccampero">
     <img src="https://img.shields.io/badge/Twitter-grey?style=for-the-badge&logo=twitter&logoColor=white&labelColor=6a0bbd">
   </a>
-  <a href="https://www.instagram.com/_cristiancampero" target="_blank">
+  <a href="https://www.instagram.com/_cristiancampero">
     <img src="https://img.shields.io/badge/Instagram-grey?style=for-the-badge&logo=instagram&logoColor=white&labelColor=6a0bbd">
   </a> 
 </p>
