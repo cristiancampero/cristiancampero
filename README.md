@@ -14,9 +14,6 @@ Aquí podrás encontrar algunos de los proyectos en los que he trabajado. Si est
   <a href="https://twitter.com/_ccampero">
     <img src="https://img.shields.io/badge/Twitter-grey?style=for-the-badge&logo=twitter&logoColor=white&labelColor=6a0bbd">
   </a>
-  <a href="https://www.instagram.com/_cristiancampero">
-    <img src="https://img.shields.io/badge/Instagram-grey?style=for-the-badge&logo=instagram&logoColor=white&labelColor=6a0bbd">
-  </a> 
 </p>
 
 <p align="center">
